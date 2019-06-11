@@ -1,5 +1,4 @@
-//Viral science www.youtube.com/c/viralscience
-//FireFighter Truck
+
 #include <AFMotor.h>
 #include <NewPing.h>
 #include <Servo.h> 
